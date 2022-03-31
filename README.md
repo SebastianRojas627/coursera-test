@@ -1,5 +1,4 @@
 # coursera-test
 Coursera test repository
 
-## Vamos a ver que putas
-
+Dejemos de escribir cosas profanas
